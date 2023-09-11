@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to Di Yuan's homepage! 
 
-I'm a postdoctoral research associate at Gies College of Business, University of Illinois Urbana-Champaign.
+I'm a postdoctoral research associate (marketing) at Gies College of Business, University of Illinois Urbana-Champaign. I received my PhD in Information Systems and Technology Management from the University of Pittsburgh.
 
 My research interests lie at the intersection of AI, algorithm, and economics. My current projects use analytical modeling and empirical tools to investigate economic issues arising from AI adoption, including:
 - Fairness issues with online advertising platforms
